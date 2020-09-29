@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagmentSystemFinishing", "GymManagmentSystemFinishing.csproj", "{79C07756-4656-4857-ACCC-8B40E90FDF74}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupplease", "..\Setupplease\Setupplease.vdproj", "{72BC7B91-4704-415B-B47E-56D8C09E2B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.All|Any CPU.Build.0 = Release|Any CPU
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C07756-4656-4857-ACCC-8B40E90FDF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BC7B91-4704-415B-B47E-56D8C09E2B80}.All|Any CPU.ActiveCfg = Release
+		{72BC7B91-4704-415B-B47E-56D8C09E2B80}.Debug|Any CPU.ActiveCfg = Debug
+		{72BC7B91-4704-415B-B47E-56D8C09E2B80}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FEFBD1-844E-46E3-AAE1-411EE9E11C0E}
+	EndGlobalSection
+EndGlobal
